@@ -1,5 +1,6 @@
 // My first GitHub lab file
+//updated iin feature branch 
 #include <iostream>
 int main() {
-    std::cout << "Hello GitHub";
+    std::cout << "Hello GitHub and I have made a feature branch";
 }
