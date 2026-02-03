@@ -1,0 +1,5 @@
+// My first GitHub lab file
+#include <iostream>
+int main() {
+    std::cout << "Hello GitHub";
+}
